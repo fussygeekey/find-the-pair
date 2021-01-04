@@ -1,0 +1,8 @@
+{
+  "short_name": "Test React-App",
+  "name": "Test React-App | by Eugene Semenenko",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
